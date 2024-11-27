@@ -5,7 +5,7 @@ import ProtectedRoute from '/components/ProtectedRoute';
 import Home from '/pages/Home';
 import Dashboard from '/pages/Dashboard';
 import Login from '/pages/Login';
-import Forbidden from './pages/Forbidden';
+import Forbidden from '/pages/Forbidden';
 
 const App = () => (
   <AuthProvider>
